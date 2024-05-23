@@ -1,0 +1,20 @@
+Git Commands to push & pull Code 
+
+1)git checkout -b "Your branch name"
+
+With the help of this command you can create branch & switch to created branch.
+
+2)git add .
+with the help of this command add code for push before that you need to select files that you want to commit.
+
+3)git commit -m "Decription"
+With the help of this command you commit your code with description regarding your code, In " " you put your description.
+
+4)git checkout master 
+with the help of this command you switch to master branch.
+
+5)git pull origin
+with the help of this command you can take pull of code in your existing branch so if any changes commit by other developers that also come in your branch.
+
+6)git push origin -u "Your Branch name"
+with the help of this command you push your code in git 
